@@ -1,19 +1,19 @@
-# `XLICON-V2-MD DEPLOY ON KOYEB✅ HIGHLY RECOMMENDED THANKS `
+# `XLICON-V2 HIGHLY RECOMMENDED`
 <br>
 
-# `NOTE : WE HATE BUGS AND THOSE STUFF WE ARE REALLY SERIOUS ABOUT IT THOSE OF YOU PUTTING VIRUS BUGS IN YOUR BOTS PLEASE STOP WE HATE IT A LOT`
+# `NOTE : 🌿_nallathu cheythal nallathu labhikkum...bhagavane eeshwara🥲💐
 
 
 <br>
 
-#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `𝐈𝐭𝐬 𝐦𝐞 𝐝𝐚𝐫𝐤 𝐩𝐫𝐢𝐧𝐜𝐞 ? ?`
+#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi ? ?`
 
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20Dark%20prince)
 <p align="center">
   
->XLICON-V2-MD is based on :
+>XLICON-V2 is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)

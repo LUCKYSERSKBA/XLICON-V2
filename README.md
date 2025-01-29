@@ -183,14 +183,14 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://files.catbox.moe/c4hu3g.jpeg" width="250" height="250" alt="Aadhiser"/></a>
+<a href="https://github.com/LUCKYSERSKBA"><img src="https://files.catbox.moe/c4hu3g.jpeg" width="250" height="250" alt="Aadhiser"/></a>
   
 **XLICON-V2** - By `darkprince`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
-<a href="https://github.com/abrahamdw882"><img src="https://files.catbox.moe/c4hu3g.jpeg" width="250" height="250" alt="Abraham Dwamena"/></a>
+<a href="https://github.com/LUCKYSERSKBA"><img src="https://files.catbox.moe/bctqgr.jpeg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
 **XLICON-V2** - By `adhiser`
 <br>
@@ -226,18 +226,12 @@ Click On The Link To Donate ME...
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## 🙌 `Bot Developers and Contributors`
-| [![Suhail Tech Info](https://github.com/SuhailTechInfo.png)](https://github.com/SuhailTechInfo) | [![Maher Zubair](https://github.com/Maher-Zubair.png)](https://github.com/Maher-Zubair) | [![Syntax-king](https://github.com/syntax-king.png)](https://github.com/syntax-king) |
-| -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
-| **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` | **Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
+| [![Aadhiser](https://files.catbox.moe/c4hu3g.jpeg)  |
+
+| -------------------------------------------------- | -----------------------------------------------------------      | ---------------------------------------------------- |
+|            **Dark prince**<br>`Contributor`|
 
 
-## 📊 `GitHub Stats of Bot Contributors`
-[![Salman Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanytofficial&show_icons=true&theme=radical)](https://github.com/salmanytofficial)
-[![Abraham Dwamena's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=radical)](https://github.com/abrahamdw882)
-[![Suhail Tech Info's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailTechInfo&show_icons=true&theme=radical)](https://github.com/SuhailTechInfo)
-[![VenoxSenpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-E-N-O-X&show_icons=true&theme=radical)](https://github.com/V-E-N-O-X)
-[![Mzn King's GitHub stats](https://github-readme-stats.vercel.app/api?username=mznking&show_icons=true&theme=radical)](https://github.com/mznking)
-[![Maher Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maher-Zubair&show_icons=true&theme=radical)](https://github.com/Maher-Zubair)
 
 
 ## `Reminder`

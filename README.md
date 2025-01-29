@@ -183,7 +183,7 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://files.catbox.moe/c4hu3g.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/salmanytofficial"><img src="https://files.catbox.moe/c4hu3g.jpg" width="250" height="250" alt="Aadhiser"/></a>
   
 **XLICON-V2** - By `darkprince`
 <br>

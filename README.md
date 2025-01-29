@@ -6,7 +6,7 @@
 
 <br>
 
-#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi ? ?`
+#  ᴄᴏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ `Aadhi...? ?`
 
 
 
@@ -23,7 +23,7 @@
 [![XLICON](https://i.ibb.co/JR5w3tD/923e0467-af99-494a-af3a-f645cb3b5c0d.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About XLICON-V2**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Aadhiser](https://github.com/LUCKYSERSKBA). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 

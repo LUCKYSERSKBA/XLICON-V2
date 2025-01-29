@@ -43,7 +43,7 @@ XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Aadhiser](https
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find XLICON-V2 helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -183,29 +183,29 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/salmanytofficial"><img src="https://files.catbox.moe/c4hu3g.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**XLICON-V2** - By `darkprince`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
 <a href="https://github.com/abrahamdw882"><img src="https://avatars.githubusercontent.com/u/120536940?v=4" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**XLICON-V2** - By `adhiser`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [jestaadhi@gmail.com](mailto:jestaadhi@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Channel``
    
-   [![WHATSAPP](https://img.shields.io/badge/Support%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](  https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c)
+   [![WHATSAPP](https://img.shields.io/badge/Support%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](  https://whatsapp.com/channel/0029VayY2vu1NCrLQHzmRB2Q)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/918136880986?text=Hi!! aadhiser, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 

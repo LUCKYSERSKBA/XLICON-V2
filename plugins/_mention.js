@@ -12,7 +12,7 @@ handler.all = async function (m, conn) {
     let url = "https://github.com/LUCKYSERSKBA/XLICON-V2"
     let murl = "https://www.instagram.com/p/DFDv-JjzHYM/?igsh=Z2k0c3RwdWFwd2oy"
     let hash = global.botname
-    let img = "https://avatars.githubusercontent.com/u/120536940?v=4"
+    let img = "https://files.catbox.moe/c4hu3g.jpeg"
     let num = ["233268374753"]
 
     let doc = {

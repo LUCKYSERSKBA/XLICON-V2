@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['918136880986', '𝐀𝐚𝐝𝐡𝐢𝐬𝐞𝐫  ? ?', true], 
   ['917736197362', '𝐥𝐮𝐜𝐤𝐲𝐬𝐞𝐫 -(𝘼𝐜𝐡𝐮)', true], 
-  ['233533763772', 'Abraham Dwamena2.0', true],
+  ['+919633485762', 'Achu ', true],
   ['233268374753', 'Abraham Dwamena3.0', true]
 ] 
 

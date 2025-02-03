@@ -22,7 +22,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "THE XLICON-V2 IS ALIVE 🌟",
-          body: "XLICON BOT",
+          body: "𝐁𝐲 𝐃𝐚𝐫𝐤 𝐏𝐫𝐢𝐧𝐜𝐞(𝐀𝐚𝐝𝐡𝐢 𝐬𝐞𝐫)",
           thumbnailUrl: img,
           sourceUrl: 'https://whatsapp.com/channel/0029VayY2vu1NCrLQHzmRB2Q',
           mediaType: 1,

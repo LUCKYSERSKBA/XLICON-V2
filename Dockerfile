@@ -1,19 +1,6 @@
 FROM node:lts-buster
 
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
-
-COPY package.json .
-
-RUN npm install && npm install qrcode-terminal
-
-COPY . .
-
-EXPOSE 5000
-
+RUN git clone https://github.com/LUCKYSERSKBA/XLICON-V2.git /root/XLICON-V2/
+WORKDIR /root/XLICON-V2/
+RUN yarn install
 CMD ["npm", "start"]
